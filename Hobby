@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head> <meta charset="utf-8"> <title> Gym | Styrketräning </title> </head>
+<h1> <Strong> Mina övningar på gymmet </Strong> </h1> <img src="TRÄNA.jpg">
+<body> <header> <ul> <li> Axlar </li> <li> Rygg </li> <li> Ben </li> </ul> </header> </body>
+<article> <h2>Förklaring</h2> Här över ser ni mina tre muskelgrupper jag lägger <em>mest fokus</em> på just nu när jag tränar på gymmet. <h3> Lite mer förklaring </h3> Varför just dessa muskelgrupper? <p> Jo, för att få bättre hållning lägger jag fokus på axlar och rygg. För att slippa få ont i ryggen tränar jag upp sätesmuskeln. </p> </article>
+<footer> </footer>
+
+</body>
+
+</html>
